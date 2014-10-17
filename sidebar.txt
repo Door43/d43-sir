@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sir:home|Door43 (sir)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sir|d43-sir repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sir/archive/master.zip|d43-sir.zip]]
+
+**Recent Changes**
+{{changes>ns = sir}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sir|Ethnologue data]]
+
